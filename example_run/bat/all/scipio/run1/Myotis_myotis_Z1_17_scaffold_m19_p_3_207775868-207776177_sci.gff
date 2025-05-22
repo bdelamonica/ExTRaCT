@@ -1,0 +1,6 @@
+##gff-version	3
+##query	Myotis_myotis_Z1_17 1 82
+scaffold_m19_p_3	Scipio	protein_match	207775899	207776144	1.000	+	0	ID=14;Query=Myotis_myotis_Z1_17 1 82
+# protein sequence = [HAELCFLDRVPSWLLDEGKQYRLMWYISWSPCPDCAPKLVDFLRKNSHVQLRIFAARIYTKLDGYEDGLRRLQDAGAK
+# LAIM]
+#

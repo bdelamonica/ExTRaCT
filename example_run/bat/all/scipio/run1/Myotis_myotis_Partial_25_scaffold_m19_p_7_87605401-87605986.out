@@ -1,0 +1,47 @@
+### Scipio v1.4 output
+# query file    example_run/bat/all/scipio/run1/Myotis_myotis_Partial_25_scaffold_m19_p_7_87605401-87605986.fasta
+# target file   Bat1kgenomes/mMyoMyo1.6.pri.fa
+# BLAT output   example_run/bat/all/scipio/run1/Myotis_myotis_Partial_25_scaffold_m19_p_7_87605401-87605986.psl
+# timestamp     2025-04-21 21:39:08
+# parameters    (default)
+---
+Myotis_myotis_Partial_25:
+  - ID: 225
+    status: auto
+    reason: ~
+    prot_len: 188
+    prot_start: 0
+    prot_end: 188
+    prot_seq: PLSSPPHRERLPVNYFKFQFRNVEYSSGRNKTFLCYVIEVQDKGGQVQASRGYLEDEHATAHAEEAFFNTVVPTFDPALRYNVTWYVSSSPCVACADRIIKTLSKTKNLRLLILVGRLFMWEEPEMQAALKKLKEAGCRLRIMKPQDFEYIWQNFVEQEEGESKAFEPWEDIQENFLYYEEKLADILK
+    target: scaffold_m19_p_7
+    target_len: 94448911
+    strand: '-'
+    dna_start: -87605985
+    dna_end: -87605421
+    matches: 188
+    mismatches: 0
+    undetermined: 0
+    unmatched: 0
+    additional: 0
+    score: 1.000
+    upstream: agagcaagctcctactccacctccctgctccaaaaattcatttaatatatcatccttgggtagaggccgtatccgatattaaactggtaagaacagatactatactcgatcttagccaaagaaaagcgatttattgtgtcttttgttactcaagaacctgtaacgattctctattgcctcctgaaccaaggctaaactttcaagagccttcatatgtccttcactctgcctactccgttttagcagtttcctattgtttgcagctgtcttatttctctctctcctgtccagctggaatctagctactaggttataagcatctggagggtaggggccaaatcttagaagcttaatcatatcaagatacccttagtgtggtatctccaagataaaaattctaggacaacctttctttcacctgagggaaaagacaggcttgagaaacagtcagtagcagagcgtggtggcactgcaaactgcaggccattctgtggggaagatgcaacatacatgaatgacaaggaggaggaaccaagtatgaaatgttctgcgaagtctttgtcctgctgtcatgagaaattgtatatgcttgctactttgtaaaattactatttgaacactgcttttcaaacctggccacaaattaggatcatctggagagcttttgaatatgctgatgcctggtccctcctacccccagatgttctgatttaactggttttgtgtggggcccaggcattactggcagagctttctaggagcttctaatgtagagccagcttaaagagacattggcttagaaatgtaggcgtgcgttgtgcacagcaagtgatgttggttgtttggagacccttcctgatggggtgaccagaatgcacccctcaccccaaattctctttcctccagagaaaccctgtgggatgccttcatgcctttttgtccctcatgccgaggaggtctggccctacgaaggactcatcattctctcttctttcctgtc
+    upstream_gap: ~
+    matchings:
+      - type: exon
+        nucl_start: 0
+        nucl_end: 564
+        dna_start: -87605985
+        dna_end: -87605421
+        seq: cctttgtcttctccaccccacagggagcggctgcctgttaactacttcaagttccagttccggaatgtggagtacagctcggggcggaacaagaccttcctctgctacgtgattgaggtgcaggacaaggggggccaagtgcaggcatcccggggatacctcgaggacgagcatgcaactgcccacgcggaggaagccttcttcaacaccgtcgtgcccaccttcgacccggccctgcgctacaacgtcacctggtacgtgtcctccagcccctgcgtagcttgcgccgaccgcatcatcaaaaccctcagcaagaccaagaacctgcgcctgctcatcctggtggggcgcctcttcatgtgggaggagcccgagatgcaggctgcgctgaagaagctgaaggaggcgggctgcaggctgcgcatcatgaagccccaggacttcgagtacatctggcagaattttgtggagcaggaagagggcgaatccaaggcctttgagccctgggaggacattcaggagaacttcctgtactacgaggaaaagttggccgacatcctgaag
+        prot_start: 0
+        prot_end: 188
+        seqshifts: []
+        mismatchlist: []
+        undeterminedlist: []
+        inframe_stopcodons: []
+        translation: PLSSPPHRERLPVNYFKFQFRNVEYSSGRNKTFLCYVIEVQDKGGQVQASRGYLEDEHATAHAEEAFFNTVVPTFDPALRYNVTWYVSSSPCVACADRIIKTLSKTKNLRLLILVGRLFMWEEPEMQAALKKLKEAGCRLRIMKPQDFEYIWQNFVEQEEGESKAFEPWEDIQENFLYYEEKLADILK
+        overlap: ~
+    stopcodon: tag
+    downstream: taggcgactgcgctcagcctcacgtgagtcatggcatcattactccagtaacagggctgaaggctggaggtcaggtggaaccagtggggttagattttccttgggaaagatttgatttgtctgctttggaacagcggttctcaacctgtggaggtcaaatgaccctttcacaggggtcgcctaagaccattggaaaacacatataattacatattgtttttgtgattaatcactatgctttaattatgttcaatttgtaacaacaaaaatacatcctgcatatcagacatttacattacagttcacaacagtagcaaaattacagttatgaagtagcaatgaaaataattttatggttgggggtcaccacaacatgaggaactgtattaaagggtcgcggcattaggaaggttgagaaccactgttttagaagatcctctctccttttatttcctctaaattcctctccctaaatctttttccctcctactctttttatatcagactaactttccctataacatggaatcgtagggttgacaggaatctaaaagctttcatgagaaagtctgtattaaggtttagatggcacaagagcctactactggaaaacagcctagaatatatttcaatctcctaaatatgcccccatgggcgtgtatccagaattagtaatgtagatgccttgctcccacctccatttgcaatcctaccattccattttttcctctaaaacaggtgtttcattctattgggggtaatttttttttttccatttttgatacttttgaaattccccaatttttggccagagcagctttcatgttttcaaacaaatgattctgctttgagggagaccaatacttgctgtgtgaatgtataatgcaagaacattttcccaatgttgaaaagacagaactcagaaaaaaatgctgaatgcagggatggggataatatagcaacacgcttttccatgcaggaatgtttaaagggttaaaaa
+    downstream_gap: ~
+### end of Scipio output

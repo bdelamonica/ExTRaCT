@@ -1,0 +1,47 @@
+### Scipio v1.4 output
+# query file    example_run/bat/all/scipio/run1/Myotis_myotis_Z1_17_scaffold_m19_p_3_207775868-207776177.fasta
+# target file   Bat1kgenomes/mMyoMyo1.6.pri.fa
+# BLAT output   example_run/bat/all/scipio/run1/Myotis_myotis_Z1_17_scaffold_m19_p_3_207775868-207776177.psl
+# timestamp     2025-04-21 21:24:38
+# parameters    (default)
+---
+Myotis_myotis_Z1_17:
+  - ID: 14
+    status: incomplete
+    reason: missing stopcodon
+    prot_len: 82
+    prot_start: 0
+    prot_end: 82
+    prot_seq: HAELCFLDRVPSWLLDEGKQYRLMWYISWSPCPDCAPKLVDFLRKNSHVQLRIFAARIYTKLDGYEDGLRRLQDAGAKLAIM
+    target: scaffold_m19_p_3
+    target_len: 213723965
+    strand: +
+    dna_start: 207775898
+    dna_end: 207776144
+    matches: 82
+    mismatches: 0
+    undetermined: 0
+    unmatched: 0
+    additional: 0
+    score: 1.000
+    upstream: cctcctccctctgacctcagctatttatatatttatatttatatttatttatttatttatttataagaattttattgtttccagaaagaaagggagagatagatagaaacatcagtgatgagagagaaccattggttggctgctgcctcctgcacgcctcctcctgagaatcaagcctgcaacctgtgcctgggccctgaccaggaacctgtgacctgtttgtagatgggtcactgctcaacccactgaaccagaccggctggctgccctcagccctttgtctccctgcaggggctgacgaggggcagctcctgaaggcataggctttgggcacaaaatagaggctctctgggaactctgtaccaagatgaatcacatggagcccagatctgttcactcagtggttagagcatcagcctgcacagccacgggccaggggtaggattccaggtcaagggcacttatctcagttgcagctttgatccctggccctgggtggtggagcgtggggtaggcaaccagtggatgtgtctctcccatgctgatgtttctctctctctgacccctcctcatccctccacactttctctaaagatcaatggaaaaaatctccccaggtgaggatttgaaaaaagaaccatatttaatgtaagactttaaaaaatcaaaactaatgaaattccatattgaatggaatattaacaggctaagtgaagactgatcagctacagatccataggagccatggtttgctgatgtagaacaagtcctcactgctgatgtgccctttgtagatgctgatattatgtgattcgtgagtcgccttccctttgaccgtgtagatcctgcattgaaatagcgttcaccctgacgctgagctgcgccccttcagtcctgtgctggaggccagtcctcacctgcctctggctggtgccaccctcccctgttcacagcaagtgacagatccctctactcccctctctgtgctcaggtatactgt
+    upstream_gap: ~
+    matchings:
+      - type: exon
+        nucl_start: 0
+        nucl_end: 246
+        dna_start: 207775898
+        dna_end: 207776144
+        seq: catgcagagttgtgcttcctggatcgggtcccttcttggctcctggatgaggggaagcagtacagactcatgtggtacatctcttggagcccctgccctgactgtgccccgaaactggtggacttcctgcgcaagaacagccacgtgcagctgcgcatcttcgccgctcgcatctacaccaaacttgatggatatgaggatgggctgcgcaggctgcaggacgctggggccaaactcgccatcatg
+        prot_start: 0
+        prot_end: 82
+        seqshifts: []
+        mismatchlist: []
+        undeterminedlist: []
+        inframe_stopcodons: []
+        translation: HAELCFLDRVPSWLLDEGKQYRLMWYISWSPCPDCAPKLVDFLRKNSHVQLRIFAARIYTKLDGYEDGLRRLQDAGAKLAIM
+        overlap: ~
+    stopcodon: ~
+    downstream: acccccaaaggtcagcagggactcctgagagtgggaggtgggcgggcagagaggctgggaaatggctgcacagagggggcaggaggagaatctaggtggggacccctttcagctgcctgcagaggggctgctgggtctggagaggatggagtctcctggaggagagttcaggggagagagggggtcctgggaagaggggaggtgggtccctgtgccatcaggacccaggtccttcctggtagaaggggaggggctgcctcagattccagtggaagaaagaatttgagggatgagctcagtgccttgggaggagagagaaaggggcagggagattctgattgggagggtgtgtctctagagtcagagacctgggcccttcccgggctctagaaggagctcacctttccctccctgttcccatagagctccagcactgctgggacaccttcgtggacaaccagggccagcagttcgagcccgagcttgaactgttagaaaagataagagcccgatgtcagaggctggagaacattctcagggtgaggttcctccctccccttctctccccttctctccctgggcctgtctctgcctctgggtcacctgctccctcctgggccccagctccatcctcccctcaggtctcaggagtccctctgctttctcccctcctgcaccccttttcctccccctcctgtgactgccccagactctgctctgttcaccttcccacctgcctcactccctgcttcctccacctcctccttctcaatccagattcagggaaactgaaggatgggctcaatctctctaaacaggtcgggagacagctggtgaacgaggaataaaacactttcttcaagaaacgaaaacgcatcacgtgccaccatccccaacttgttccaaagaatccagtaaaaagcaacgaatgagctcataaggaattttttaaatctgattgatttacttttcatttaaaatctatgatgtgttctaaata
+    downstream_gap: ~
+### end of Scipio output

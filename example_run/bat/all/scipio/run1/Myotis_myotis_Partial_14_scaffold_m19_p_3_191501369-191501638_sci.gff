@@ -1,0 +1,6 @@
+##gff-version	3
+##query	Myotis_myotis_Partial_14 1 89
+scaffold_m19_p_3	Scipio	protein_match	191501371	191501637	1.000	-	0	ID=53;Query=Myotis_myotis_Partial_14 1 89
+# protein sequence = [SGKNTTRHAEVNFIEKITSERQFCSSTSCSIIWFLSWSPCWECSKAITEFLRQRPGVTLVIYVARLYHHMDEQNRQGL
+# RDLIKSGVTVQ]
+#
