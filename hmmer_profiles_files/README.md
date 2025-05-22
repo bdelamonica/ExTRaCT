@@ -1,4 +1,4 @@
-# HMMER Profile Helper
+# HMMER Profile Folder Information
 
 The following files are saved in the folder hmmer_profiles_files:
 
