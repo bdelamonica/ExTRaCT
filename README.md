@@ -131,6 +131,8 @@ export PATH=[location of emboss]/emboss.open-bio.org/pub/EMBOSS/EMBOSS-6.6.0/emb
 
 export PATH=[location of raxml]/standard-RAxML-master:$PATH
 
+
+
 bash example_Z_domain_bat_all_C.sh
 
 ```

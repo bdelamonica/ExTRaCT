@@ -9,6 +9,7 @@ export PATH=/$path_to/scipio-1.4/:$PATH
 export PATH=/$path_to/blat/blat/:$PATH
 export PATH=/$path_to/bin/:$PATH
 
+# To run the following example load a sample genome from GenBank # GCA_014108235.1
 
 echo Host: `hostname`
 echo Now it is: `date`
@@ -36,7 +37,7 @@ echo Now it is: `date`
 
 # Usage: python Gene_search.py INPUT_GENOME_LIST.csv path_to/HMMER_PROFILE.hmm OUTPUT_FOLDER_PATH MOTIF.csv PREFIX
 # Suggested output folder path : example_run/reference_species/domain_type
-# Suggested prefic structure: Reference-species_Domain-type_Motif
+# Suggested prefix structure: Reference-species_Domain-type_Motif
 # To generate all 27 test cases from the paper, update the input HMMER and MOTIF files 
 # Load all 103 genomes and save in Bat1kgenomes/ folder then update INPUT_GENOME_LIST.csv to species_names_all.csv
 # Change "6bat_all.hmm" to the names of the hmm files in /hmmer_profiles_files, listed above
