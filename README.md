@@ -1,4 +1,4 @@
-# README.md
+# ExTRaCT 
 
 The following includes environment setup, installation requirements and example run instructions.
 
@@ -11,7 +11,11 @@ Anaconda is recommended but not required. The current code uses Python version 3
 conda create -n a3pipeline
 conda activate a3pipeline
 
-wget filepath
+git clone https://github.com/bdelamonica/ExTRaCT.git
+
+# alternatively
+wget https://github.com/bdelamonica/ExTRaCT/archive/refs/heads/main.zip
+unzip main.zip
 
 cd ExTRaCT
 
@@ -51,7 +55,7 @@ SCIPIO has various dependencies. Below we list crucial documentation and tips to
 
 Link: https://bedops.readthedocs.io/en/latest/content/installation.html#linux
 
-** BioPerl 
+* BioPerl 
 
 `conda install bioconda::perl-bioperl`
 
@@ -67,7 +71,7 @@ Alternative load
 
 `conda install bioconda::perl-bio-featureio`
 
-** YAML
+* YAML
 
 `conda install bioconda::perl-yaml`
 
@@ -75,7 +79,7 @@ Check version
 
 `perl -MYAML -e 'print $YAML::VERSION ."\n";'`
 
-** BLAT
+* BLAT
 
 Link: https://genome.ucsc.edu/FAQ/FAQblat.html#blat9 
 
@@ -88,18 +92,26 @@ Save bat = /path_to_blat/blat/blat/
 * Once all dependencies are saved test
 
 Check SCIPIO runs
+
 `perl path/to/scipio.1.4.pl`
 
 
 5. Python requirements
 
 StringIO
+
 AlignIO
+
 Pybedtools
+
 `conda install bioconda::pybedtools`
+
 Openpyxl
+
 `conda install anaconda::openpyxl`
+
 Orffinder
+
 `pip3 install orffinder`
 
 6. EMBOSS
@@ -131,7 +143,9 @@ export PATH=[location of emboss]/emboss.open-bio.org/pub/EMBOSS/EMBOSS-6.6.0/emb
 
 export PATH=[location of raxml]/standard-RAxML-master:$PATH
 
+export PATH=[location of sciptio]/scipio-1.4/:$PATH
 
+export PATH=[location of blat]/blat/blat/:$PATH
 
 bash example_Z_domain_bat_all_C.sh
 
