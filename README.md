@@ -51,7 +51,7 @@ Link: https://www.webscipio.org/webscipio/download_scipio
 
 SCIPIO has various dependencies. Below we list crucial documentation and tips to download all
 
-** Convert2bed
+* Convert2bed
 
 Link: https://bedops.readthedocs.io/en/latest/content/installation.html#linux
 
