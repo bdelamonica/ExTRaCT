@@ -1,0 +1,62 @@
+﻿Species,Sequence Name,#Accession or file name,Date downloaded
+Macaca mulatta,A3C,EU381233.1,11/18/2024
+Chlorocebus aethiops,A3C,EU381232.1,11/18/2024
+Homo sapiens,A3A (v1) Z1 ,NM_145699.4,11/18/2024
+Homo sapiens,A3B (v1) Z2-Z1,NM_004900.5,11/18/2024
+Homo sapiens,A3C Z2,NM_014508.3,11/18/2024
+Homo sapiens,A3D (v1) Z2-Z2,NM_152426.4,11/18/2024
+Homo sapiens,A3F (v1) Z2 – Z2,NM_145298.6,11/18/2024
+Homo sapiens,A3F (cds) Z2 – Z2,JF262037.1,11/18/2024
+Homo sapiens,A3G (cds) Z2-Z1,JF262036.1,11/18/2024
+Homo sapiens,A3H (vSV-154) Z3,NM_001166004.3,11/18/2024
+Bos taurus,A3 Z1,EU864534.1,11/18/2024
+Bos taurus,A3Z2,EU864535.1,11/18/2024
+Bos taurus,A3Z3,EU864536.1,11/18/2024
+Equus caballus,A3 Z2a-Z2b,FJ527822.1,11/18/2024
+Equus caballus,A3 Z2c-Z2d,FJ527823.1,11/18/2024
+Equus caballus,A3 Z3 v1,FJ532286.1,11/18/2024
+Equus caballus,A3 Z1b,FJ532287.1,11/18/2024
+Equus caballus,A3 Z2e,FJ532288.1,11/18/2024
+Equus caballus,A3 Z3,FJ532289.1,11/18/2024
+Felis catus,A3 Cc,EU109281.1_cds_ABW83271.1_1,11/18/2024
+Felis catus,A3 Ca,EU109281.1_cds_ABW83272.1_2,11/18/2024
+Felis catus,A3 Cb,EU109281.1_cds_ABW83273.1_3,11/18/2024
+Felis catus,A3H,EU109281.1_cds_ABW83274.1_4,11/18/2024
+Felis catus,A3,GU097660.1,11/18/2024
+Lynx lynx,A3,GU097661.1,11/18/2024
+Ovis aries,A3 Z1,EU864541.1,11/18/2024
+Ovis aries,A3 Z2,EU864542.1,11/18/2024
+Ovis aries,A3 Z3,EU864543.1,11/18/2024
+Panthera leo bleyenberghi,A3,GU097662.1,11/18/2024
+Panthera tigris corbetti,A3,GU097663.1,11/18/2024
+Puma concolor,A3,GU097659.1,11/18/2024
+Sus scrofa,A3 Z2,EU864539.1,11/18/2024
+Sus scrofa,A3 Z3,EU864540.1,11/18/2024
+Sus scrofa,A3 Z2-Z3,EU871586.1,11/18/2024
+Sus scrofa,A3 Z2_1,FJ716801.2,11/18/2024
+Molossus molossus,A3A,HLmolMol2 APOBEC3A,10/17/2024
+Molossus molossus,A3A2,HLmolMol2 APOBEC3A2,10/17/2024
+Molossus molossus,A3C,HLmolMol2 APOBEC3C,10/17/2024
+Molossus molossus,A3H,HLmolMol2 APOBEC3H,10/17/2024
+Myotis myotis,A3A,HLmyoMyo6 APOBEC3A,10/17/2024
+Myotis myotis,A3A2,HLmyoMyo6 APOBEC3A2,10/17/2024
+Myotis myotis,A3A3,HLmyoMyo6 APOBEC3A3,10/17/2024
+Myotis myotis,A3C,HLmyoMyo6 APOBEC3C2,10/17/2024
+Myotis myotis,A3C2,HLmyoMyo6 APOBEC3C2,10/17/2024
+Pipistrellus kuhlii,A3A,HLpipKuh2 APOBEC3A,10/17/2024
+Pipistrellus kuhlii,A3A2,HLpipKuh2 APOBEC3A2,10/17/2024
+Pipistrellus kuhlii,A3A3,HLpipKuh2 APOBEC3A3,10/17/2024
+Pipistrellus kuhlii,A3A4,HLpipKuh2 APOBEC3A4,10/17/2024
+Pipistrellus kuhlii,A3A6,HLpipKuh2 APOBEC3A6,10/17/2024
+Pipistrellus kuhlii,A3C,HLpipKuh2 APOBEC3C,10/17/2024
+Pipistrellus kuhlii,A3C2,HLpipKuh2 APOBEC3C2,10/17/2024
+Pipistrellus kuhlii,A3C3,HLpipKuh2 APOBEC3C3,10/17/2024
+Phyllostomus discolor,A3A,HLphyDis3 APOBEC3A,10/17/2024
+Phyllostomus discolor,A3A2,HLphyDis3 APOBEC3A2,10/17/2024
+Phyllostomus discolor,A3C2,HLphyDis3 APOBEC3C2,10/17/2024
+Rousettus aegyptiacus,A3,HLrouAeg4 APOBEC3A,10/17/2024
+Rousettus aegyptiacus,A3A,HLrouAeg4 APOBEC3A,10/17/2024
+Rhinolophus ferrumequinum,A3A,HLrhiFer5 APOBEC3A,10/17/2024
+Rhinolophus ferrumequinum,A3A2,HLrhiFer5 APOBEC3A2,10/17/2024
+Rhinolophus ferrumequinum,A3B,HLrhiFer5 APOBEC3B,10/17/2024
+Rhinolophus ferrumequinum,A3C,HLrhiFer5 APOBEC3A,10/17/2024
